@@ -1,0 +1,1 @@
+insert into Product values(1,'Product 1')
